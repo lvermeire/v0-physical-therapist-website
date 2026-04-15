@@ -1,0 +1,78 @@
+{
+  "siteName": "Praktijk Lombaerts",
+  "tagline": "Kinesitherapie & Osteopathie",
+  "phone": "+32 123 45 67 89",
+  "email": "info@praktijklombaerts.be",
+  "address": {
+    "street": "Voorbeeldstraat 123",
+    "city": "2000 Antwerpen",
+    "country": "België"
+  },
+  "openingHours": {
+    "weekdays": "8:00 - 19:00",
+    "saturday": "9:00 - 13:00",
+    "sunday": "Gesloten"
+  },
+  "social": {
+    "facebook": "https://facebook.com/praktijklombaerts",
+    "instagram": "https://instagram.com/praktijklombaerts",
+    "linkedin": "https://linkedin.com/company/praktijklombaerts"
+  },
+  "seo": {
+    "title": "Praktijk Lombaerts | Kinesitherapie & Osteopathie",
+    "description": "Professionele kinesitherapie en osteopathie praktijk. Persoonlijke behandelingen voor uw bewegingsproblemen, rugklachten, sportblessures en meer.",
+    "keywords": ["kinesitherapie", "osteopathie", "fysiotherapie", "rugklachten", "sportblessures", "revalidatie", "Antwerpen"]
+  },
+  "services": [
+    {
+      "id": "algemene-kinesitherapie",
+      "title": "Algemene Kinesitherapie",
+      "description": "Behandeling van bewegingsstoornissen, spier- en gewrichtsproblemen door middel van oefentherapie en manuele technieken."
+    },
+    {
+      "id": "osteopathie",
+      "title": "Osteopathie",
+      "description": "Holistische benadering voor het behandelen van functionele stoornissen in het lichaam met zachte manuele technieken."
+    },
+    {
+      "id": "revalidatie",
+      "title": "Revalidatie",
+      "description": "Begeleiding bij herstel na operaties, blessures of langdurige aandoeningen om uw mobiliteit te herstellen."
+    },
+    {
+      "id": "sportblessures",
+      "title": "Sportblessures",
+      "description": "Gespecialiseerde behandeling en preventie van sportgerelateerde blessures voor recreatieve en professionele sporters."
+    },
+    {
+      "id": "pediatrie",
+      "title": "Pediatrische Kinesitherapie",
+      "description": "Aangepaste behandelingen voor baby's, kinderen en adolescenten met motorische of ontwikkelingsproblemen."
+    },
+    {
+      "id": "geriatrie",
+      "title": "Geriatrische Kinesitherapie",
+      "description": "Zorg voor ouderen gericht op behoud en verbetering van mobiliteit, evenwicht en levenskwaliteit."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Marie V.",
+      "location": "Antwerpen",
+      "rating": 5,
+      "text": "Na maanden van rugklachten vond ik eindelijk verlichting bij Praktijk Lombaerts. De persoonlijke aanpak en professionele behandeling hebben mijn leven veranderd."
+    },
+    {
+      "name": "Jan D.",
+      "location": "Mechelen",
+      "rating": 5,
+      "text": "Uitstekende zorg na mijn knieoperatie. Het revalidatieprogramma was perfect op mijn behoeften afgestemd."
+    },
+    {
+      "name": "Sophie M.",
+      "location": "Lier",
+      "rating": 5,
+      "text": "Als sportster heb ik vaak te maken met blessures. De expertise in sportrevalidatie is hier top."
+    }
+  ]
+}
